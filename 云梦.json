@@ -2,46 +2,15 @@
 	"spider": "./lib/yunmen.jar",
 	"wallpaper": "1",
 	"lives": [
-	    {
-	    "name": "云梦live",
-            "type":0,
- 	    "url": "./lib/like.txt",
-            "playerType": 1,
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-     	    "logo": "https://epg.112114.eu.org/logo/{name}.png"
-	    },
   	    {
             "name": "小干货Live",
             "type": 0,
             "url": "http://120.79.4.185/new/mdlive.txt",
-            "playerType": 2,
+            "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
-  {
-  "name":"③①斗鱼线路",
-  "type":0,
-  "url":"./lib/douyuyqk.m3u",
-  "playerType":2,
-  "ua":"okhttp/3.15",
-  "epg":"https://epg.112114.eu.org/?ch={name}&date={date}",
-  "logo":"https://epg.112114.eu.org/logo/{name}.png"
-  },
-    {
-      "name": "肥羊斗鱼",
-      "type": 0,
-      "url": "./lib/douyuyqk.m3u",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp2.112114.xyz/logo/{name}.png"
-    },
-    {
-      "name": "肥羊虎牙",
-      "type": 0,
-      "url": "./lib/huyayqk.m3u",
-      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://diyp2.112114.xyz/logo/{name}.png"
-    },
     {
       "name": "③②备用虎牙",
       "type": 0,
