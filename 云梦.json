@@ -2,7 +2,7 @@
 	"spider": "./lib/yunmen.jar",
 	"wallpaper": "1",
 	"lives": [{
-		    "name": "①live",
+		    "name": "云梦live",
             "type":0,
  	        "url": "./lib/like.txt",
             "ua": "okhttp/3.15",
@@ -11,7 +11,7 @@
      		"logo": "http://diyp2.112114.xyz/logo/{name}.png"
 	    },
   	    	            {
-            "name": "②Live(EXO)",
+            "name": "小干货Live(",
             "type": 0,
             "url": "http://120.79.4.185/new/mdlive.txt",
             "playerType": 2,
