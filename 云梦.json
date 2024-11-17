@@ -54,7 +54,7 @@
     },
   ],
   	"sites":[
-    {"key":"豆瓣","name":"豆瓣热播请关注公众号：“开心软件”","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
+    {"key":"豆瓣","name":"豆瓣推云梦”","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
     {"key":"配置中心","name":"👨‍🍳‍配置┃中心","type":3,"api":"csp_Config","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
     {"key":"云梦直播点播","name":"云梦直播点播","type":3,"api":"./lib/apiv927sdtv.js","ext":"./lib/kxzb1.txt","jar":"./lib/sdtv.jar"},
     {"key": "云梦","name": "芸芸","type": 3,"api": "./lib/apiv949drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 87,"ext": "./lib/好趣网.js"},
