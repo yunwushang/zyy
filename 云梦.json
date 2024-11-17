@@ -15,7 +15,7 @@
   	    	            {
             "name": "②Live(EXO)",
             "type": 0,
-            "url": "http://120.79.4.185/new/mdlive.txt,
+            "url": "http://120.79.4.185/new/mdlive.txt",
             "playerType": 2,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
