@@ -3,9 +3,9 @@
  "wallpaper": "1",
  "lives": [
     {
-      "name": "云梦Live",
+      "name": "sao0",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yunwushang/zyy/refs/heads/master/lib/like.txt",
+      "url": "./lib/like.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -20,7 +20,7 @@
       "name": "③③备用斗鱼",
       "type": 0,
       "url": "./lib/douyu.m3u"
-    },
+    }
   ],
   	"sites":[
     {"key":"豆瓣","name":"豆瓣推云梦","type":3,"api":"csp_Douban","searchable":0,"changeable":1},
