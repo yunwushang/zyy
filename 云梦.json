@@ -1,15 +1,16 @@
 {
-	"spider": "./lib/yunmen.jar",
-	"wallpaper": "1",
-	"lives": [{
-            "name": "云梦Live",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yunwushang/zyy/refs/heads/master/lib/like.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
+ "spider": "./lib/yunmen.jar",
+ "wallpaper": "1",
+ "lives": [
+    {
+      "name": "云梦Live",
+      "type": 0,
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yunwushang/zyy/refs/heads/master/lib/like.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    },
     {
       "name": "③②备用虎牙",
       "type": 0,
