@@ -1,11 +1,10 @@
 {
 	"spider": "./lib/yunmen.jar",
 	"wallpaper": "1",
-	"lives": [
-  	    {
-            "name": "小干货Live",
+	"lives": [{
+            "name": "云梦Live",
             "type": 0,
-            "url": "http://120.79.4.185/new/mdlive.txt",
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yunwushang/zyy/refs/heads/master/lib/like.txt",
             "playerType": 1,
             "ua": "okhttp/3.15",
             "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
