@@ -1,15 +1,5 @@
-"urls": [
-        {
-            "url": "https://raw.gitcode.com/of16889/tv/raw/main/api.jsonhttps://raw.githubusercontent.com/yunwushang/zyy/refs/heads/master/云梦.json",
-            "name": "🎊云梦"
-        },
-		{
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yunwushang/ys/refs/heads/master/box/云河.txt",
-            "name": "✨云河"
-        },
-        {
-            "url": "https://gitee.com/yunshan-misty-sea/above-the-sea-of-clouds/raw/master/box/芸众生.json",
-            "name": "🎉芸众生"
-        }
-    ]
-}
+{"urls":[
+{"name":"云梦","url":"https://raw.gitcode.com/of16889/tv/raw/main/api.jsonhttps://raw.githubusercontent.com/yunwushang/zyy/refs/heads/master/云梦.json"},
+{"name":"云河","url":""https://github.moeyy.xyz/https://raw.githubusercontent.com/yunwushang/ys/refs/heads/master/box/云河.txt"},
+{"name":"芸众生","url":""https://gitee.com/yunshan-misty-sea/above-the-sea-of-clouds/raw/master/box/芸众生.json"}
+]}
