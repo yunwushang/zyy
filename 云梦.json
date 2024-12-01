@@ -416,8 +416,8 @@
   "parses":[
     {"name":"聚合1","type":3,"url":"Demo"},
     {"name":"聚合0","type":3,"url":"Web"},
-    {"name":"虾米1","type":0,"url":"https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="},
     {"name":"-8090g-","type":0,"url":"https://www.8090g.cn/jiexi/?url="},
+    {"name":"虾米1","type":0,"url":"https://150.138.78.37:4399/api/?key=94b07e0b2c0e8244&url="},
     {"name":"-777-","type":0,"url":"https://jx.777jiexi.com/player/?url="},
     {"name":"-ik9-","type":0,"url":"https://yparse.ik9.cc/index.php?url="},
     {"name":"-杰森-","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
