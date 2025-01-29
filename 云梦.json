@@ -5,7 +5,7 @@
     {
       "name": "云梦",
       "type": 0,
-      "url": "./lib/likz.txt",
+      "url": "./lib/like.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
@@ -439,7 +439,7 @@
     {
       "name": "proxy",
       "hosts": [
-        "raw.githubusercontent.com",
+        "raw.dgithub.xyz",
         "googlevideo.com",
         "cdn.v82u1l.com",
         "cdn.iz8qkg.com",
