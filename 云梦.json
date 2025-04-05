@@ -73,12 +73,12 @@
       "key": "py_cctv",
       "name": "cctv",
       "type": 3,
-      "jar": "./lib/ns.jar",
+      "jar": "http://154.12.80.87:5022/2501/a.jar",
       "api": "py_cctv",
       "searchable": 0,
       "quickSearck": 0,
       "filterable": 0, 
-      "ext":"./lib/py_cctv.py"
+      "ext":"http://154.12.80.87:5022/2501/py_cctv.py"
 },	
 {"key": "4K-AV_js","name": "👨‍🍳‍4K-AV(drpy_t3)","type": 3,"api": "./lib/apiv835drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/4K-AV.js"},
 {"key": "111tv[自动]_js","name": "👨‍🍳‍111tv[自动](drpy_t3)","type": 3,"api": "./lib/apiv835drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/111tv[自动].js"},
