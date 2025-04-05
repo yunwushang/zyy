@@ -73,6 +73,7 @@
       "key": "py_cctv",
       "name": "cctv",
       "type": 3,
+      "jar": "./lib/ns.jar",
       "api": "py_cctv",
       "searchable": 0,
       "quickSearck": 0,
