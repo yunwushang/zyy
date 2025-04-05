@@ -69,7 +69,16 @@
 {"key": "js_蓝莓短剧","name": "🎦蓝莓短剧","type": 3,"api": "./lib/apiv949drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蓝莓短剧.js"},
 {"key": "你好帅","name": "🎦好帅┃短剧","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://nhsyy.com/vodshwo/{cateId}--{by}------{catePg}---.html","分类": "穿越$fenle#战神$fenlei2#重生$fenlei3#爱情$fenlei4#萌娃$guda#神医$shenyi#古代$gudai#言情$yanqing#玄幻$xuanhuan","播放数组": "<div class=\"sort-item\"&&</div>"} },
 {"key": "宝片视频_js","name": "👨‍🍳‍宝片视频(drpy_t3)","type": 3,"api": "./lib/apiv835drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/宝片视频.js"},
-
+{
+      "key": "py_cctv",
+      "name": "cctv",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearck": 0,
+      "filterable": 0, 
+      "ext":  "./lib/py_cctv.py"
+},	
 {"key": "4K-AV_js","name": "👨‍🍳‍4K-AV(drpy_t3)","type": 3,"api": "./lib/apiv835drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/4K-AV.js"},
 {"key": "111tv[自动]_js","name": "👨‍🍳‍111tv[自动](drpy_t3)","type": 3,"api": "./lib/apiv835drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"ext": "./lib/111tv[自动].js"},
 
